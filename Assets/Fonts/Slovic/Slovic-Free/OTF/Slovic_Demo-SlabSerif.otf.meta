@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f6784ac9b0a98c44e9284df1b4ca0202
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Slovic_Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 16256bc1a1a3e2e48a38d2ce921b8b59, type: 3}
+  - {fileID: 12800000, guid: 63aa6309414dc9640af35a09d3277840, type: 3}
+  - {fileID: 12800000, guid: e237c53db405f594c817c08a52c93918, type: 3}
+  - {fileID: 12800000, guid: c13acc0e1b334864584b26145b4c5326, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
